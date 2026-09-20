@@ -5,7 +5,7 @@ description:
   discipline SLOP1669 teaches.
 affiliation: Slop University School of Invented Disciplines
 role: convenor
-email: genevieve.erik@slop.university
+email: genevieve.erik@slop.edu.au
 contact: Email for course-level questions; use the weekly session for feedback on work.
 ---
 

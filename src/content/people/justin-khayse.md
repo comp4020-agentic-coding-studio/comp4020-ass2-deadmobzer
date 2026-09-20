@@ -5,7 +5,7 @@ description:
   originally as cover and never formally uninvited.
 affiliation: Slop University School of Invented Disciplines
 role: lecturer
-email: justin.khayse@slop.university
+email: justin.khayse@slop.edu.au
 contact: Ask during sessions, or email when a question cannot wait until the next one.
 ---
 

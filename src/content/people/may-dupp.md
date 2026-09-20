@@ -5,7 +5,7 @@ description:
   academic record is, by her own admission, mostly invented.
 affiliation: Slop University School of Invented Disciplines
 role: lecturer
-email: may.dupp@slop.university
+email: may.dupp@slop.edu.au
 contact: Ask during sessions, or email when a question cannot wait until the next one.
 ---
 

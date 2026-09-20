@@ -5,7 +5,7 @@ description:
   mark; the name is exactly as on-the-nose as it looks.
 affiliation: Slop University School of Invented Disciplines
 role: tutor
-email: fae.k.corsa@slop.university
+email: fae.k.corsa@slop.edu.au
 contact: Ask during sessions, or email when a question cannot wait until the next one.
 ---
 
