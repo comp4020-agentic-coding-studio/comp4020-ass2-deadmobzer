@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-04-19
 teachers:
-  - marisol-quaye
+  - may-dupp
 tags:
   - LO2
 source: Pennycook et al. (2015)

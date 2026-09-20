@@ -6,7 +6,7 @@ description:
 week: 4
 date: 2027-03-15
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-04
   - assessments/fortnightly-tutorials

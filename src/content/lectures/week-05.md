@@ -6,7 +6,7 @@ description:
 week: 5
 date: 2027-03-22
 teachers:
-  - marisol-quaye
+  - justin-khayse
 tags:
   - LO1
 source: Parkinson (1955); Chu & Choi (2005)

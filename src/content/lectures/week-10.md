@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-04-26
 teachers:
-  - idris-fenn
+  - may-dupp
 tags:
   - LO3
 source: Sokal (1996); Petrocelli (2018)

@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-04-26
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-10
   - assessments/fortnightly-tutorials

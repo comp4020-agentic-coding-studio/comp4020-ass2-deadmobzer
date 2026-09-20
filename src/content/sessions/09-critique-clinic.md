@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-04-19
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-09
 spec:

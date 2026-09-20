@@ -6,7 +6,7 @@ description:
 week: 7
 date: 2027-04-05
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-07
 spec:

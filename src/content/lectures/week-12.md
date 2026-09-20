@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-05-10
 teachers:
-  - idris-fenn
+  - genevieve-erik
 tags:
   - LO2
 source: Graeber (2018)

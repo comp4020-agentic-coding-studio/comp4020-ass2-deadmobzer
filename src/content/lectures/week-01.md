@@ -6,7 +6,7 @@ description:
 week: 1
 date: 2027-02-22
 teachers:
-  - marisol-quaye
+  - genevieve-erik
 tags:
   - LO3
 source: Frankfurt (2005)

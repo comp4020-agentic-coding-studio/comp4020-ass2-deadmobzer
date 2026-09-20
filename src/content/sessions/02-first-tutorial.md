@@ -6,7 +6,7 @@ description:
 week: 2
 date: 2027-03-01
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-02
   - assessments/fortnightly-tutorials

@@ -6,7 +6,7 @@ description:
 week: 8
 date: 2027-04-12
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-08
   - assessments/fortnightly-tutorials

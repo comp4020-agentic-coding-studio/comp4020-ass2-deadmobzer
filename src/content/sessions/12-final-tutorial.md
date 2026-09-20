@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-05-10
 teachers:
-  - idris-fenn
+  - fae-k-corsa
 related:
   - lectures/week-12
   - assessments/fortnightly-tutorials

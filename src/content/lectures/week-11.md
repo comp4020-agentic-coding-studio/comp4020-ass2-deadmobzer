@@ -6,7 +6,7 @@ description:
 week: 11
 date: 2027-05-03
 teachers:
-  - marisol-quaye
+  - justin-khayse
 tags:
   - LO1
 source: Turpin et al. (2021)

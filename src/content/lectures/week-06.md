@@ -6,7 +6,7 @@ description:
 week: 6
 date: 2027-03-29
 teachers:
-  - idris-fenn
+  - genevieve-erik
 tags:
   - LO1
 source: Snyder (1971)

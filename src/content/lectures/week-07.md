@@ -6,7 +6,7 @@ description:
 week: 7
 date: 2027-04-05
 teachers:
-  - marisol-quaye
+  - fae-k-corsa
 tags:
   - LO2
 source: Strathern (1997)

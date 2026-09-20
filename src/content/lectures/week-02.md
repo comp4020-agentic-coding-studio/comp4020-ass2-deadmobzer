@@ -6,7 +6,7 @@ description:
 week: 2
 date: 2027-03-01
 teachers:
-  - idris-fenn
+  - may-dupp
 tags:
   - LO3
 source: Mednick (1962)
