@@ -13,6 +13,38 @@ if you commit to it fully — not a course that jokes about bullshitting on
 the side, but a bit played all the way through, to the point that even
 this account of building it is fair game to be bullshit too.
 
+## "How I got here" — in my own words
+
+**Why harness-first:** to get a large chunk of work done in one go, rather
+than directing content decisions one at a time.
+
+**Where the agent matched or broke expectations:** the agent worked the
+way I expected it to throughout. The one surprise was that it didn't
+remove some of the starter placeholder text on its own — I had to catch
+that and ask for it directly, rather than the agent flagging it itself.
+[Open: if you want a specific commit link for this, the two "remove
+leftover starter-template explainer paragraph" commits — `eba485a`
+(sessions page) and `f186849` (lectures page) — are the concrete instances;
+say if you want this pinned to one of those or left general.]
+
+**Proudest moment:** the fake staff names — Genevieve Erik, Justin Khayse,
+May Dupp, Fae k. Corsa. Reasoning: as far as I'm aware, AI can't think
+phonetically the way a human inventing a pun can, so this is the part of
+the site that's most clearly mine.
+
+## AI-authorship reflection — in my own words
+
+I don't think AI-authorship is actually a tension on this particular
+piece, and that's different from how CLAUDE.md frames it. I wanted none
+of the writing style to be mine — that not-mine-ness was part of the
+performance, not a compromise of it. I'm still the one behind the
+performance: the agent can follow a bit, but it can't perform erratically
+the way a human does, and directing that performance is the authorship
+that actually matters here.
+
+On whether this shifted how I see bullshitting as a skill or how much I
+trust agentic tools: it didn't. Everything went as expected.
+
 ## Decisions justified so far
 
 ### Sessions label kept as "Session/Sessions", not renamed to "Labs" (commit `1d77b66`)
@@ -62,6 +94,11 @@ slide left deliberately blank for the live bullshitting bit, and a debrief
 structure. The blank slide specifically is the point — it's the moment the
 recorded performance has to actually happen live, not a gap to fill in
 later.
+
+In my own words, why this one matters enough to write up: it's the
+clearest place to highlight the performance-art angle. The blank slide is
+me emphasising that I'm playing a bit, not building a lecture that happens
+to have a gap in it.
 
 ### Sessions run all twelve weeks, graded every second one (commit `572cedd`)
 
