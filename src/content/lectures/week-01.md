@@ -1,30 +1,29 @@
 ---
-title: Opening lecture
+title: A live demonstration of how to bullshit
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  Week 1 — the convenor bullshits live, in front of you, so you know exactly
+  what the bar is and exactly how low it turns out to be
 week: 1
 date: 2027-02-22
 teachers:
   - marisol-quaye
 slides: /decks/week-01/
 related:
-  - sessions/01-getting-started
+  - sessions/01-orientation
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
+<!-- TODO: real source reference — see CLAUDE.md -->
 
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
-
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
-
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
+No readings, no slides you can trust, no promises kept past the first ten
+minutes. This lecture exists to prove, in real time, that confident delivery
+and actual content are two completely different line items — and that only
+one of them is being marked this semester.
 
 ## Outline
 
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- a cold-open bullshit, no warm-up, no citations
+- a live diff between "sounds right" and "is right," and why nobody in the
+  room can tell the difference on the first pass
+- what "minimal effort, maximal outside-the-box thinking" means as a design
+  constraint rather than an excuse
+- what to have ready before next week's descent into abstraction

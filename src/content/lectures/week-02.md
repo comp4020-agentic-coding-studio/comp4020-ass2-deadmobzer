@@ -1,23 +1,27 @@
 ---
-title: Second lecture
+title: Introduction to abstract thinking
 description:
-  Week 2 — the first substantive material, and the run-up to the first review
+  Week 2 — abstraction as a bullshitting technique, and why "it's more of a
+  vibe" is a legitimate design decision if you say it with a straight face
 week: 2
 date: 2027-03-01
 teachers:
   - idris-fenn
 related:
-  - sessions/02-first-review
-  - assessments/assignment-1
+  - sessions/02-first-tutorial
+  - assessments/fortnightly-tutorials
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
+<!-- TODO: real source reference — see CLAUDE.md -->
 
-Replace this page. It exists so the lectures listing sorts by week and the
-related block has more than one edge to draw.
+Specificity is a liability: the more precisely you claim something, the more
+precisely it can be checked. Abstraction is the load-bearing wall of this
+entire course, and this week is where you learn to build one.
 
 ## Outline
 
-- the first substantive material, and where it shows up in practice
-- what the first review is looking for
-- reading before next week
+- abstraction as a hiding place, not a virtue, and how to tell the difference
+  from the audience's seat
+- the first fortnightly tutorial's shape, and what "bullshitting" is being
+  assessed alongside attendance
+- reading before next week: whatever you can find that sounds load-bearing

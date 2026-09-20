@@ -46,17 +46,18 @@ export const slopCourseMetaSchema = z
 // The code's last three digits were assigned to this repo when it was
 // provisioned, and no other course in the cohort has them. Change the first
 // digit to your course's level (and `level` to match); keep the other three.
-// STARTER_CONTENT: replace this course record, then remove this comment.
 export const courseMeta = slopCourseMetaSchema.parse({
   code: "SLOP1669",
-  title: "Course Title Goes Here",
+  title: "Intro to bullshitting",
   session: "Semester 1",
   year: 2027,
   level: 1,
   startDate: "2027-02-22",
   endDate: "2027-05-28",
   description:
-    "One concise paragraph explaining what this course is, who it is for, " +
-    "and why somebody would choose to spend a semester taking it.",
-  tags: ["replace me"],
+    "A rigorous introduction to doing your courses with minimal effort and " +
+    "maximal outside-the-box thinking: wielding LLMs and agentic software " +
+    "to generate content fast, and weaponising satire against an " +
+    "open-ended brief.",
+  tags: ["bullshitting", "abstract thinking", "satire"],
 }) satisfies CourseMetaInput;
