@@ -9,11 +9,11 @@ email: genevieve.erik@slop.edu.au
 contact: Email for course-level questions; use the weekly session for feedback on work.
 ---
 
-Colleagues call her Gen Erik, which she has never corrected, on the theory
-that a professor whose name already sounds like an adjective has done
-enough branding work for one career. Founded SLOP1669 after a long run of
-convening courses interchangeable enough that she stopped updating the
-syllabus between them.
+Gen Erik is the founding convenor of SLOP1669. Colleagues call her that,
+which she has never corrected, on the theory that a professor whose name
+already sounds like an adjective has done enough branding work for one
+career. She founded the course after a long run of convening others
+interchangeable enough that she stopped updating the syllabus between them.
 
 Delivers weeks 1, 6 and 12 personally: the opening demonstration, the
 midsemester revision, and the closing exam revision. A convenor who shows
