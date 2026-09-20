@@ -21,6 +21,13 @@ stopped caring whether a claim is true at all, only whether it lands.
 Frankfurt names this "indifference to how things really are," and week 1 puts
 that indifference on display, live, with nothing rehearsed to fall back on.
 
+<!--
+TODO: add the week 1 recording link here, alongside the deck link above,
+once the upload finishes. See CLAUDE.md's weekly-schedule note — the
+recording is meant to sit next to the deck so the deck also works as a
+standalone self-study artifact.
+-->
+
 ## Outline
 
 - a cold-open bullshit, no warm-up, no citations
