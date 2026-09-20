@@ -123,9 +123,17 @@ assessment, since real clients send briefs at 4:55pm on a Friday.
 
 ### Key figures
 
-Ralph — a figure the course studies directly. Which week this belongs to and
-what the actual citation is are both still open (see "Sources" below: ask me
-before writing content that leans on this, same as any other new source).
+Ralph Lauren — a case study, not an academic source, so he sits here rather
+than in the "Sources" table below and doesn't satisfy any week's
+approved-source requirement. The course's use of him: born Ralph Lifshitz,
+no formal design training, no inherited old-money pedigree, who built an
+entire aspirational WASP-aristocracy lifestyle brand out of a polo shirt —
+i.e. successfully LARPed and bullshitted his way into fashion dominance.
+Stick to well-known, publicly documented facts about him; no invented
+quotes or attributed claims, same discipline as the real sources. Used in
+week 3 (Abstract Thinking, Demonstrated on Whatever Was on the Lecturer's
+Desk) as the worked example of building an empire from a random object —
+that week's actual anchor-source citation stays Mednick (1962).
 
 ### Weekly schedule
 
