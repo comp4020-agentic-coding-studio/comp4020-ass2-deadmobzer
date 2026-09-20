@@ -121,20 +121,6 @@ fill the time available for it, so the course removes the time. A brief
 released early is a brief overthought. This is also framed as authentic
 assessment, since real clients send briefs at 4:55pm on a Friday.
 
-### Key figures
-
-Ralph Lauren — a case study, not an academic source, so he sits here rather
-than in the "Sources" table below and doesn't satisfy any week's
-approved-source requirement. The course's use of him: born Ralph Lifshitz,
-no formal design training, no inherited old-money pedigree, who built an
-entire aspirational WASP-aristocracy lifestyle brand out of a polo shirt —
-i.e. successfully LARPed and bullshitted his way into fashion dominance.
-Stick to well-known, publicly documented facts about him; no invented
-quotes or attributed claims, same discipline as the real sources. Used in
-week 3 (Abstract Thinking, Demonstrated on Whatever Was on the Lecturer's
-Desk) as the worked example of building an empire from a random object —
-that week's actual anchor-source citation stays Mednick (1962).
-
 ### Weekly schedule
 
 Each pair of weeks on the same topic must do different jobs (theory then
@@ -159,12 +145,6 @@ and twelve weeks that repeat each other fail the brief.
 LO count: LO1 = 4, 5, 6, 11. LO2 = 7, 8, 9, 12. LO3 = 1, 2, 3, 10.
 
 Week 1 must include at least one real deck, linked from its lecture page.
-Week 1 is being recorded live; once the recording exists, link it from the
-week 1 lecture page alongside the deck, so the deck also stands alone for
-self-study. The current deck is a working draft, not a finished artifact —
-expect it to keep moving between commits. That's iterative design, not
-neglect; side comments in the deck source are there to track that
-in-progress state honestly rather than pretend it's already final.
 
 ### Assessment
 
@@ -235,17 +215,7 @@ These protect promises the build cannot. Write each as a separate commit.
 ## Process
 
 This section records how the course was made. It exists so I can write
-`PROCESS.md`. **You do not write or edit `PROCESS.md`.** It is my account and
-has to be in my words.
-
-Why the process looks the way it does, for the record: this is a course on
-producing convincing bullshit, so an agent generating the bulk of it while I
-supply direction and taste isn't a shortcut being smoothed over — it's the
-demonstration. That doesn't make the AI-authorship question comfortable, and
-it shouldn't. There's a real, unresolved tension in leaning on an agent to
-build a satire about people over-relying on agents, and in how murky the
-ethics of AI-assisted satire get from an academic-integrity standpoint. The
-course doesn't resolve that. It names it and keeps going.
+`PROCESS.md`. 
 
 1. Read the assignment brief.
 2. Came up with a unique idea: a course on doing courses with minimal effort.
@@ -255,27 +225,11 @@ course doesn't resolve that. It names it and keeps going.
 5. Told the agent to use its harness to create an initial repo.
 6. Used an external AI assistant to flesh out the ideas and improve the
    harness, especially to pull in the sources needed.
-7. Rerun step 5 with the new harness.
-8. Wrote the week 1 deck from this file and the weekly schedule. It's a
-   working draft, not a finished one — that gets revisited, not this week
-   but next lecture, for a short finishing pass.
-9. Record week 1 live as the demonstration lecture. Link the recording and
-   the deck from the week 1 page once both exist, so the deck also works as
-   a standalone self-study artifact.
-10. Come back to the week 1 deck next lecture after a deliberate gap —
-    sleep on it, look at it with fresh eyes, then finish it. That gap is
-    part of the authentic process, not a delay to gloss over.
-11. Utilise everything mentioned and done prior to fill out the PROCESS.MD
-    file. Make sure to ask the user questions when going through this step.
-    Concretely, this is a routine, not a one-off: before drafting
-    `PROCESS.md`, walk the commit log for commits that flagged an
-    undocumented decision (the "say so in the commit message" rule below is
-    what produces these), list them out, and ask me to justify or annotate
-    each one in my own words — one at a time, rather than guessing at my
-    reasoning. Keep my answers in a scratch note, not in `PROCESS.md`
-    itself, for me to draw from when I write it.
-12. Do a human pass and write a reflection.
-13. Rinse and repeat until satisfied.
+7. Rerun step 5 with the new harness
+8. Will be to create lecture slides based on this agent file and the prompt history to create a slideshow about creating the slideshow and doing the assignement
+9. To utilise everything mentioned and done prior to fill out the PROCESS.MD File -- Make sure to ask the user questions when going through this step
+10. We are going to do a human pass and write a reflection
+11. Rinse and repeat until satisfied
 
 When you make a decision I did not specify (a structural choice, a rule you
 had to interpret, a check you chose not to write), say so in the commit

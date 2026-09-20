@@ -135,6 +135,29 @@ and a range as:
 — swap in real hashes from `git log`; the template's `a1b2c3d` /
 `e4f5a6b...` placeholders don't resolve to anything in this repo.
 
+## Another correction, beyond the placeholder-text catch — in my own words
+
+I had to redirect some of the bios and the delivery of the names of the
+convenors — they got a bit too on the nose, especially for Gen Erik. The
+original framing leaned on her being generic/interchangeable as the joke
+itself, spelled out directly in her own bio; I pulled that back and had it
+rewritten around something unrelated (cats, coffee, long walks on the
+beach) so the pun sits in the name and doesn't also get explained in the
+prose next to it.
+
+Relevant commits: [`cbaae6d`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-deadmobzer/commit/cbaae6d) (first pass, still on-the-nose) and
+[`36b4fb0`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-deadmobzer/commit/36b4fb0) (the correction).
+
+## What I'd want a marker to understand about me — in my own words
+
+How I decide what to delegate: I write the harness/spec up front and let
+the agent take a large first pass at turning it into content, rather than
+directing every content decision one at a time. Where I stay hands-on is
+taste — catching when a joke is overplayed (the Gen Erik bio correction
+above) or when something reads as leftover scaffolding rather than a
+deliberate choice (the placeholder-text catch). The agent executes; where
+something lands is still mine to call.
+
 ## Still open
 
 (none right now)
