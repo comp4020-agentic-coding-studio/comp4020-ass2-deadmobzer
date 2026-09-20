@@ -1,17 +1,25 @@
 ---
-title: Demonstration of resources
+title: "Tools in Anger: One Assignment, Forty Minutes, Zero Remorse"
+description:
+  Week 5 — last week's toolkit under an actual clock, live, with every
+  failure left in the recording
 week: 5
 date: 2027-03-22
 teachers:
   - marisol-quaye
-description:
-  Week 5 — last week's toolkit under an actual clock, live, with all the
-  failures left in
+tags:
+  - LO1
+source: Parkinson (1955); Chu & Choi (2005)
+related:
+  - sessions/05-resource-clinic
 ---
 
-Same premise as week 3, new subject: a demonstration is only honest if the
-failures stay in the recording. This week runs the tools from week 4 against
-a live deadline and shows what breaks, not just what ships.
+Parkinson's law holds that "work expands so as to fill the time available for
+its completion," so this week removes the time and watches what survives.
+Chu and Choi's research on active procrastination backs the bet: some people
+genuinely perform better against a real deadline than a comfortable one, and
+this lecture is a live test of whether that generalises to a room full of
+students.
 
 ## Outline
 

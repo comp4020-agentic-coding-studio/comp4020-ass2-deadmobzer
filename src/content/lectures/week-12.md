@@ -1,19 +1,25 @@
 ---
-title: Exam Revision
+title: "Exam Revision: The Oral Is Just Talking"
 description:
-  Week 12 — revision for a final oral exam, delivered with the same
-  confidence as week 1 and, this time, some of the same content
+  Week 12 — revision for a final oral, delivered with the same confidence as
+  week 1 and, this time, some of the same content
 week: 12
 date: 2027-05-10
 teachers:
   - idris-fenn
+tags:
+  - LO2
+source: Graeber (2018)
 related:
   - assessments/final-oral
+  - sessions/12-final-tutorial
 ---
 
-The course closes the way it opened: a lecture about performing under
-scrutiny. The difference twelve weeks makes is that this time the material
-underneath the delivery is supposed to hold.
+Graeber's case for *Bullshit Jobs* links a single overpadded assignment to
+an economy full of manufactured, purposeless work; the closing lecture makes
+that link explicit before sending the course out to be an oral exam about
+itself. The format is week 1's again — a performance under scrutiny — but the
+material underneath it is supposed to hold this time.
 
 ## Outline
 

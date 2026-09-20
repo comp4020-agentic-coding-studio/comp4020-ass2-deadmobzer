@@ -1,23 +1,25 @@
 ---
-title: A live demonstration of how to bullshit
+title: "Live Bullshitting: A Demonstration Performed Without Preparation"
 description:
-  Week 1 — the convenor bullshits live, in front of you, so you know exactly
-  what the bar is and exactly how low it turns out to be
+  Week 1 — the convenor bullshits an entire lecture live and unprepared, so
+  the room can identify afterwards, cold, exactly what worked
 week: 1
 date: 2027-02-22
 teachers:
   - marisol-quaye
+tags:
+  - LO3
+source: Frankfurt (2005)
 slides: /decks/week-01/
 related:
   - sessions/01-orientation
 ---
 
-<!-- TODO: real source reference — see CLAUDE.md -->
-
-No readings, no slides you can trust, no promises kept past the first ten
-minutes. This lecture exists to prove, in real time, that confident delivery
-and actual content are two completely different line items — and that only
-one of them is being marked this semester.
+Harry Frankfurt's distinction is the one the whole course runs on: a liar
+still cares about the truth, enough to hide it, while the bullshitter has
+stopped caring whether a claim is true at all, only whether it lands.
+Frankfurt names this "indifference to how things really are," and week 1 puts
+that indifference on display, live, with nothing rehearsed to fall back on.
 
 ## Outline
 

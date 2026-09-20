@@ -1,5 +1,5 @@
 ---
-title: Tools and Resources for last minute work
+title: "The Toolbelt: LLMs, Agents and Other Ways to Not Be the Author"
 description:
   Week 4 — a survey of everything that lets you start an assignment the
   night before it is due and still hand in something with a straight face
@@ -7,11 +7,19 @@ week: 4
 date: 2027-03-15
 teachers:
   - idris-fenn
+tags:
+  - LO1
+source: Hicks, Humphries & Slater (2024)
+related:
+  - sessions/04-tools-checkpoint
+  - assessments/fortnightly-tutorials
 ---
 
-The tools don't do the bullshitting for you; they just make it faster and
-harder to catch. This week is a tour of the stack — LLMs, agentic scaffolding,
-templates you can gut and refill — and where each one's seams show.
+Hicks, Humphries and Slater argue that a language model's output fits
+Frankfurt's definition exactly: produced with no regard for truth, only for
+plausibility. This week takes that as an operating manual rather than a
+warning, and tours the stack — LLMs, agentic scaffolding, templates you can
+gut and refill — noting where each tool's seams show.
 
 ## Outline
 

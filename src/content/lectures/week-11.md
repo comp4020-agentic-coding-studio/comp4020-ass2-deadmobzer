@@ -1,5 +1,5 @@
 ---
-title: Genuine Attempts at the assignment
+title: "Genuine Attempts: A Controlled Experiment in Effort"
 description:
   Week 11 — the twist ending, where the course asks you to actually do the
   thing it spent ten weeks teaching you to fake
@@ -7,12 +7,18 @@ week: 11
 date: 2027-05-03
 teachers:
   - marisol-quaye
+tags:
+  - LO1
+source: Turpin et al. (2021)
+related:
+  - sessions/11-genuine-clinic
 ---
 
-Ten weeks of bullshitting technique were never the point on their own; they
-were rehearsal for recognising the difference when it counts. This week is
-where that difference counts: an honest attempt at the assignment, using
-whatever the semester actually taught you.
+Turpin and colleagues frame bullshitting ability as an honest signal of
+intelligence, which is the closest thing this course has to a justification
+for grading it at all. This week runs the other condition: an honest attempt
+at the assignment, as a control group, using whatever the semester actually
+taught you.
 
 ## Outline
 

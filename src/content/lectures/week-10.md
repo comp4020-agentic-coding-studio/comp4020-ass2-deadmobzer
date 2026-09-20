@@ -1,18 +1,25 @@
 ---
-title: Philosophy and Fake Deep cont
+title: 'Fake Deep II: Say "Liminal" and Watch Them Nod'
 description:
-  Week 10 — the fake-deep grammar from last week, stress-tested against
-  actual philosophy until the difference either shows up or doesn't
+  Week 10 — producing and detecting pseudo-profundity in the same session,
+  including the moment it stops working
 week: 10
 date: 2027-04-26
 teachers:
   - idris-fenn
+tags:
+  - LO3
+source: Sokal (1996); Petrocelli (2018)
+related:
+  - sessions/10-critique-checkpoint
+  - assessments/fortnightly-tutorials
 ---
 
-Last week named the technique; this week tries to break it by holding it up
-next to the real thing. If a paragraph survives being read against an actual
-argument, it might not be fake deep after all — that's the uncomfortable
-possibility this session sits with.
+Sokal's hoax got a paper of engineered nonsense published because it wore the
+right jargon in front of the right audience; Petrocelli's research on when
+people bullshit suggests the same nonsense fails the moment someone expects
+to be held to it. This week pairs a fake-deep paragraph with real argument on
+the same subject and watches which parts quietly fall apart.
 
 ## Outline
 

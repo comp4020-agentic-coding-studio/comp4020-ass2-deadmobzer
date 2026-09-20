@@ -1,19 +1,25 @@
 ---
-title: Midsem revision
+title: "Midsemester Revision (Revising What, Exactly?)"
 description:
-  Week 6 — a revision session for an oral exam that rewards confident
-  delivery over correct content, which is either good news or very bad news
+  Week 6 — revision reframed as re-prompting for an oral exam that rewards
+  confident delivery over correct content
 week: 6
 date: 2027-03-29
 teachers:
   - idris-fenn
+tags:
+  - LO1
+source: Snyder (1971)
 related:
   - assessments/midsem-oral
 ---
 
-Revision, here, means rehearsing the performance rather than re-learning the
-material — the midsem is oral, and an oral exam marks what you can say under
-pressure, not what you could look up given time.
+Snyder's account of the hidden curriculum is that students learn what
+assessment actually rewards, not what a syllabus claims to reward, and this
+course is not exempt from that. Revision, here, means rehearsing the
+performance rather than re-learning material — the midsem is oral, and an
+oral exam marks what you can say under pressure, not what you could look up
+given time.
 
 ## Outline
 

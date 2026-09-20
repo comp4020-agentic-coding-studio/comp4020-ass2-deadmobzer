@@ -1,17 +1,25 @@
 ---
-title: Satire and Commentary out of Anything Part 2
+title: "Satire Out of Anything II: Punching Up, Sideways, and at the Marker"
 description:
-  Week 8 — the same exercise as last week, again, because the first pass at
-  satire is always a rough draft of the actual point
+  Week 8 — delivering last week's target, deadpan, with an escalation that
+  knows exactly where to stop
 week: 8
 date: 2027-04-12
 teachers:
   - idris-fenn
+tags:
+  - LO2
+source: Swift (1729)
+related:
+  - sessions/08-satire-checkpoint
+  - assessments/fortnightly-tutorials
 ---
 
-A sequel exists to fix what the original got wrong. Last week's targets get
-revisited here — sharper, meaner where it earns it, and cut wherever the joke
-was carrying weight the commentary should have carried instead.
+Swift's *A Modest Proposal* is still the reference case for satire that
+follows an absurd premise through to its logical conclusion without ever
+breaking character. This week takes last week's target and delivers it the
+same way — sharper where it earns it, and cut wherever the joke was carrying
+weight the commentary should have carried instead.
 
 ## Outline
 

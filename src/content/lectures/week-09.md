@@ -1,17 +1,23 @@
 ---
-title: Fake Deep and Philosophy of Critique
+title: "Fake Deep I: The Philosophy of Critique"
 description:
-  Week 9 — sounding profound as its own skill, separate from and often
-  opposed to actually having a point
+  Week 9 — sounding profound as its own skill, and why vagueness reads as
+  depth long before anyone checks for content
 week: 9
 date: 2027-04-19
 teachers:
   - marisol-quaye
+tags:
+  - LO2
+source: Pennycook et al. (2015)
+related:
+  - sessions/09-critique-clinic
 ---
 
-"Fake deep" is the natural endpoint of everything this course has practised:
-confident delivery, load-bearing abstraction, and a straight face. This week
-names the technique instead of just using it.
+Pennycook and colleagues found that syntactically coherent nonsense, dressed
+in the right vocabulary, reliably reads as profound to people who haven't
+been warned to look closely. "Fake deep" is that finding turned into a
+technique: this week names the grammar instead of just using it.
 
 ## Outline
 
