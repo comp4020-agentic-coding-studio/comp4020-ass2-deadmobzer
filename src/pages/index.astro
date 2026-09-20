@@ -2,40 +2,47 @@
 import Card from "astro-theme-university/components/Card.astro";
 import CardGrid from "astro-theme-university/components/CardGrid.astro";
 import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
-import heroImage from "../assets/images/hero-home.avif";
 import { courseMeta } from "../course-config";
 import { sessionLabels, siteConfig } from "../site-config";
-
-// STARTER_CONTENT: replace the hero artwork and its alt text below, then
-// remove this comment.
 ---
 
 <ContentLayout
   title={`${courseMeta.code}: ${courseMeta.title}`}
   description={courseMeta.description}
-  heroImage={heroImage}
-  heroImageAlt="A lecture theatre reduced to flat gold and black shapes, rows of seats sweeping past the frame, in a two-ink risograph print"
   {...siteConfig}
 >
   <ul class="course-tags" aria-label="Course tags">
     {courseMeta.tags.map((tag) => <li>{tag}</li>)}
   </ul>
 
-  <!-- STARTER_CONTENT: replace the authored page below, then remove this comment. -->
   <h2>What you will do</h2>
   <p>
-    Say what a student spends their time on — the making, reading, arguing or
-    measuring that fills the weeks. Name the artefact they walk out with.
+    Twelve weeks of producing convincing, unverifiable claims under a clock,
+    building toward two oral exams where the only thing checked is whether
+    you can hold a position out loud. You leave with a portfolio of bits, one
+    genuine attempt for comparison, and a reasonably accurate read on your
+    own tells.
   </p>
 
   <h2>Who it is for</h2>
   <p>
-    Say who this is aimed at and what they need to already know. Be specific
-    enough that someone can rule themselves in or out without emailing you.
+    Anyone who has already finished <em>Calling Bullshit</em> and wants the
+    other side of the trade. No prior bullshitting experience assumed; a
+    willingness to say something with total confidence before checking
+    whether it's true is the only real prerequisite.
+  </p>
+
+  <p>
+    This site was built the way the course teaches: fast, with an agent doing
+    most of the typing and a human reviewing the brief. Neither of us is
+    claiming that's a coincidence.
   </p>
 
   <h2>Where to go next</h2>
   <CardGrid columns={2}>
+    <Card title="Lectures" href="/lectures/">
+      <p>Twelve weeks, three learning outcomes, one recurring bit.</p>
+    </Card>
     <Card title={sessionLabels.plural} href="/sessions/">
       <p>The weekly schedule and what happens in each teaching session.</p>
     </Card>
