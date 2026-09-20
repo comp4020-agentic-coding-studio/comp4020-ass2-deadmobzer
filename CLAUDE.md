@@ -55,6 +55,33 @@ The course is also meta: it was built using the exact process it teaches
 (see "Process" below). The site may acknowledge this once, deadpan, on the
 home page or the course design page. Do not keep winking about it.
 
+The build is the performance. I am LARPing as a professor who generates his
+own course without reading any of it — not skipping the reading as a
+shortcut, but treating the not-reading itself as the demonstration.
+Bullshitting everything, including this file, is in character, not a
+production shortcut being hidden.
+
+Underneath the jokes there is one real thesis: we do not make good things,
+we make justifications for bad things. That is what "outside-the-box
+thinking" is a euphemism for in a lot of assessment contexts, and saying so
+plainly is the mindset shift LO3 is actually teaching — evaluating bullshit
+well starts with admitting an excuse is a skill, not a failure. AI-generated
+text across this site is not being smoothed over; leaving it visible is the
+point, since a course about producing convincing bullshit should be willing
+to show its own. That's self-incriminating and it stays that way on purpose.
+
+None of this makes the AI-authorship question comfortable, and it shouldn't.
+Leaning on an agent to write a satire course — including the parts that
+comment on people over-relying on agents, and overreaching even when told
+not to — is exactly the overreach LO1 is supposed to name, and the ethics
+of that, like the ethics of academic satire generally, don't resolve
+cleanly. The course doesn't pretend they do. Committing to the bit means
+committing to that discomfort too.
+
+House motto, source disputed: "Everything's a bit, you're just not
+committing to it enough." Closer to how it was actually put: "Every
+costume's a fit, you're just not LARPing hard enough."
+
 ## Voice
 
 - Dry, deadpan, satirical, meta. Crude is allowed; swearing is allowed where
@@ -94,6 +121,12 @@ fill the time available for it, so the course removes the time. A brief
 released early is a brief overthought. This is also framed as authentic
 assessment, since real clients send briefs at 4:55pm on a Friday.
 
+### Key figures
+
+Ralph — a figure the course studies directly. Which week this belongs to and
+what the actual citation is are both still open (see "Sources" below: ask me
+before writing content that leans on this, same as any other new source).
+
 ### Weekly schedule
 
 Each pair of weeks on the same topic must do different jobs (theory then
@@ -118,6 +151,12 @@ and twelve weeks that repeat each other fail the brief.
 LO count: LO1 = 4, 5, 6, 11. LO2 = 7, 8, 9, 12. LO3 = 1, 2, 3, 10.
 
 Week 1 must include at least one real deck, linked from its lecture page.
+Week 1 is being recorded live; once the recording exists, link it from the
+week 1 lecture page alongside the deck, so the deck also stands alone for
+self-study. The current deck is a working draft, not a finished artifact —
+expect it to keep moving between commits. That's iterative design, not
+neglect; side comments in the deck source are there to track that
+in-progress state honestly rather than pretend it's already final.
 
 ### Assessment
 
@@ -191,6 +230,15 @@ This section records how the course was made. It exists so I can write
 `PROCESS.md`. **You do not write or edit `PROCESS.md`.** It is my account and
 has to be in my words.
 
+Why the process looks the way it does, for the record: this is a course on
+producing convincing bullshit, so an agent generating the bulk of it while I
+supply direction and taste isn't a shortcut being smoothed over — it's the
+demonstration. That doesn't make the AI-authorship question comfortable, and
+it shouldn't. There's a real, unresolved tension in leaning on an agent to
+build a satire about people over-relying on agents, and in how murky the
+ethics of AI-assisted satire get from an academic-integrity standpoint. The
+course doesn't resolve that. It names it and keeps going.
+
 1. Read the assignment brief.
 2. Came up with a unique idea: a course on doing courses with minimal effort.
 3. Wrote down details, basing the structure on an existing example (COMP4020).
@@ -199,11 +247,27 @@ has to be in my words.
 5. Told the agent to use its harness to create an initial repo.
 6. Used an external AI assistant to flesh out the ideas and improve the
    harness, especially to pull in the sources needed.
-7. Rerun step 5 with the new harness
-8. Will be to create lecture slides based on this agent file and the prompt history to create a slideshow about creating the slideshow and doing the assignement
-9. To utilise everything mentioned and done prior to fill out the PROCESS.MD File -- Make sure to ask the user questions when going through this step
-10. We are going to do a human pass and write a reflection
-11. Rinse and repeat until satisfied
+7. Rerun step 5 with the new harness.
+8. Wrote the week 1 deck from this file and the weekly schedule. It's a
+   working draft, not a finished one — that gets revisited, not this week
+   but next lecture, for a short finishing pass.
+9. Record week 1 live as the demonstration lecture. Link the recording and
+   the deck from the week 1 page once both exist, so the deck also works as
+   a standalone self-study artifact.
+10. Come back to the week 1 deck next lecture after a deliberate gap —
+    sleep on it, look at it with fresh eyes, then finish it. That gap is
+    part of the authentic process, not a delay to gloss over.
+11. Utilise everything mentioned and done prior to fill out the PROCESS.MD
+    file. Make sure to ask the user questions when going through this step.
+    Concretely, this is a routine, not a one-off: before drafting
+    `PROCESS.md`, walk the commit log for commits that flagged an
+    undocumented decision (the "say so in the commit message" rule below is
+    what produces these), list them out, and ask me to justify or annotate
+    each one in my own words — one at a time, rather than guessing at my
+    reasoning. Keep my answers in a scratch note, not in `PROCESS.md`
+    itself, for me to draw from when I write it.
+12. Do a human pass and write a reflection.
+13. Rinse and repeat until satisfied.
 
 When you make a decision I did not specify (a structural choice, a rule you
 had to interpret, a check you chose not to write), say so in the commit
