@@ -2,18 +2,21 @@
 title: Fortnightly tutorials
 description:
   A running mark across the semester's lab tasks, due every two weeks and
-  split evenly between showing up and bullshitting well once you're there
+  split 20% attendance, 20% quality of bullshitting
 week: 2
 due: 2027-03-01T12:00:00+11:00
 weight: 40
+tutorialSplit:
+  - 20
+  - 20
 marking:
   mode: holistic
   description:
-    Half of this mark is attendance — you were in the room, on the day, for
-    the tutorial the mark is attached to. The other half is the quality of
-    the bullshitting itself — whether the fortnight's task was answered with
-    the confidence and abstraction the lectures have been building, not
-    whether it happened to be correct.
+    20% of the total mark is attendance — you were in the room, on the day,
+    for the tutorial the mark is attached to. 20% is the quality of the
+    bullshitting itself — whether the fortnight's task was answered with the
+    confidence and abstraction the lectures have been building, not whether
+    it happened to be correct.
 spec:
   - you attend the tutorial each mark is attached to
   - you produce something for the fortnight's task, however rough
@@ -27,7 +30,8 @@ related:
   - sessions/12-final-tutorial
 ---
 
-<!-- TODO: real source reference — see CLAUDE.md -->
+Every fortnight's task is released at the last minute, per [course
+policy](/policies/) — Parkinson's law, not an oversight.
 
 ## The brief
 

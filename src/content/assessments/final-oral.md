@@ -22,7 +22,8 @@ related:
   - lectures/week-12
 ---
 
-<!-- TODO: real source reference — see CLAUDE.md -->
+Same as the midsem: the exact angle is decided and released at the last
+minute, per [course policy](/policies/).
 
 ## The brief
 

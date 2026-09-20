@@ -21,7 +21,9 @@ related:
   - lectures/week-06
 ---
 
-<!-- TODO: real source reference — see CLAUDE.md -->
+The exact angle you'll be pushed on is decided and released at the last
+minute, per [course policy](/policies/) — the format is fixed a semester in
+advance; the specific question is not.
 
 ## The brief
 
