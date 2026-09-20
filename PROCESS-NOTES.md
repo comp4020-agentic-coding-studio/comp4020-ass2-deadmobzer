@@ -5,6 +5,14 @@ routine in `CLAUDE.md`'s Process section writes to — my answers, in my own
 words, for you to draw from when you write `PROCESS.md` yourself. Delete or
 fold into that document whenever; nothing here is meant to ship as-is.
 
+## "What I built" — in my own words
+
+What SLOP1669 is actually about, for me: how to bullshit your way through
+everything. It's a performance piece about what real laziness can produce
+if you commit to it fully — not a course that jokes about bullshitting on
+the side, but a bit played all the way through, to the point that even
+this account of building it is fair game to be bullshit too.
+
 ## Decisions justified so far
 
 ### Sessions label kept as "Session/Sessions", not renamed to "Labs" (commit `1d77b66`)
